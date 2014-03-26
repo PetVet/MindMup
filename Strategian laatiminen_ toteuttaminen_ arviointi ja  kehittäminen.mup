@@ -1,0 +1,93 @@
+{
+  "title": "Strategian laatiminen, toteuttaminen, arviointi ja  kehittäminen",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "21": {
+      "title": "Kohderyhmät",
+      "id": 8
+    },
+    "31": {
+      "title": "Verkostoituminen ja hlöresurssien kehittäminen",
+      "id": 9
+    },
+    "-10": {
+      "title": "Toimintaprosessien uudistaminen",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Palveluja",
+          "id": 11,
+          "ideas": {
+            "1": {
+              "title": "Suunnitellaan, toteutetaa, arvioidaan, kehitetään",
+              "id": 12,
+              "ideas": {
+                "1": {
+                  "title": "Pitkä ja lyhyt aikaväli",
+                  "id": 13,
+                  "ideas": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Turvallisuusviestintää",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "Suunnitelujärjestelmä, palvelutasopäätös, palvelutason kehittämissuunitelma, vuosisuunnitelma",
+              "id": 15,
+              "ideas": {
+                "1": {
+                  "title": "Suun järj: arvioinnin perusteella",
+                  "id": 17,
+                  "ideas": {
+                    "1": {
+                      "title": "Kohdentuminen, palaute, turvallisuuskulttuurin muutokset, Internet ja Sos media",
+                      "id": 21,
+                      "ideas": {
+                        "1": {
+                          "title": "Oma toiminta ja tulokset",
+                          "id": 22
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Palvelutasopäätös: perusteet riskiperustaiselle suunnitelulle ja kehittämiselle (keh suun?)",
+                  "id": 19,
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "Vuosisuunnitelma: seuraavan vuoden toimnta ja tavoitteet",
+                  "id": 20
+                }
+              }
+            },
+            "2": {
+              "title": "Määrän ja kohdentumisen seuranta: PRONTO (Pelastustooimen Resurssi- ja ONnettomuusTilastO)",
+              "id": 25
+            }
+          }
+        },
+        "1.5": {
+          "title": "Riskiperustaisesti, järjestelmällisesti ja suunnitelmallisesti",
+          "id": 16
+        }
+      }
+    },
+    "-20": {
+      "title": "Palvelujen tuottaminen",
+      "id": 6
+    }
+  },
+  "links": []
+}
