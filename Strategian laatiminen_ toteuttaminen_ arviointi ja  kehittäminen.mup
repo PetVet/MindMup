@@ -5,11 +5,59 @@
   "ideas": {
     "21": {
       "title": "Kohderyhmät",
-      "id": 8
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "riskiperustaisesti pelastuslain määrittelemistä varautumisvelvollisista",
+          "id": 42,
+          "ideas": {
+            "1": {
+              "title": "Syrjäytyminen, ikääntyminen, vammaisus, kulttuurierot, alkoholi, tupakka, tulisijat, ruoanlaitto, tahallisuus",
+              "id": 44
+            },
+            "2": {
+              "title": "harvaan asutut alueet",
+              "id": 45
+            }
+          }
+        },
+        "2": {
+          "title": "Elinkaarimalli",
+          "id": 46
+        }
+      }
     },
     "31": {
       "title": "Verkostoituminen ja hlöresurssien kehittäminen",
-      "id": 9
+      "id": 9,
+      "ideas": {
+        "1": {
+          "title": "taataan riittävät henkilö-, työaika- ja materiaali",
+          "id": 47
+        },
+        "2": {
+          "title": "Turvallisuusviestintä omana tehtäväkökönaisuutena",
+          "id": 48
+        },
+        "3": {
+          "title": "Innostunut ja sitoutunut sekä päätoiminen että vapaaehtoinen hlöstö",
+          "id": 49
+        },
+        "4": {
+          "title": "Ammattitaidon kehittäminen läpi koko uran",
+          "id": 50
+        },
+        "5": {
+          "title": "Aktiivinen yhteistyö eri sidosryhmien sekä poliittisten päättäjien että virkamiesten kanssa",
+          "id": 52,
+          "ideas": {
+            "1": {
+              "title": "yli viranomaisten ja hallinnonalojen rajojen. Sosiaa-\nli- ja terveystoimi, opetustoimi, poliisi, rajavartiosto, puolustusvoimat, järjestöt sekä elinkeinoelämä\n",
+              "id": 57
+            }
+          }
+        }
+      }
     },
     "-10": {
       "title": "Toimintaprosessien uudistaminen",
@@ -75,6 +123,26 @@
             "2": {
               "title": "Määrän ja kohdentumisen seuranta: PRONTO (Pelastustooimen Resurssi- ja ONnettomuusTilastO)",
               "id": 25
+            },
+            "3": {
+              "title": "Onnettomuuksien ehkäisy",
+              "id": 26,
+              "ideas": {
+                "1": {
+                  "title": "Plaveluja",
+                  "id": 28,
+                  "ideas": {
+                    "1": {
+                      "title": "yhteistyössä muiden viranomaisten kanssa",
+                      "id": 29
+                    },
+                    "2": {
+                      "title": "Kampanjat ja kouluts",
+                      "id": 30
+                    }
+                  }
+                }
+              }
             }
           }
         },
@@ -86,7 +154,38 @@
     },
     "-20": {
       "title": "Palvelujen tuottaminen",
-      "id": 6
+      "id": 6,
+      "ideas": {
+        "1": {
+          "title": "Neuvonnan",
+          "id": 31,
+          "ideas": {}
+        },
+        "2": {
+          "title": "Ohjauksen",
+          "id": 33
+        },
+        "3": {
+          "title": "koulutuksen",
+          "id": 35
+        },
+        "4": {
+          "title": "kampanjoiden",
+          "id": 37
+        },
+        "5": {
+          "title": "Riskikohteiden käytön aikainen turvallisuus",
+          "id": 38
+        },
+        "6": {
+          "title": "Sosialinen media",
+          "id": 39
+        },
+        "7": {
+          "title": "Media",
+          "id": 40
+        }
+      }
     }
   },
   "links": []
